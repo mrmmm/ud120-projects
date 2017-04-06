@@ -32,7 +32,8 @@ plt.show()
 ### visualization code (prettyPicture) to show you the decision boundary
 
 
-
+# from sklearn import neighbors
+# cls = neighbors.KNeighborsClassifier(n_neighbors=15,weights="distance")
 
 
 
